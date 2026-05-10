@@ -19,3 +19,5 @@ Lisans Talebi: Yapımcı @rexste ile iletişime geçerek lisansınızı isteyin.
 Otomatik Teslimat: Talebiniz üzerine lisans anahtarınız @rexste tarafından size iletilecektir.
 
 Aktivasyon: Size iletilen anahtarı, eklenti klasöründeki .yml dosyasında bulunan ilgili lisans satırına yapıştırıp kaydedin. Ardından eklentiyi yenilediğinizde her şey hazır olacaktır!
+
+NOT: ŞUANLIK ÇALIŞIR SÜRÜM 1.16.5 / PAPER
